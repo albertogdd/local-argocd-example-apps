@@ -6,5 +6,5 @@ wordpress:
     rootUser:
       password: baz
 
-dev: true
+dev: false
 prod: false
