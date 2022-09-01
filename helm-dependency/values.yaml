@@ -8,3 +8,7 @@ wordpress:
 
 dev: true
 prod: false
+
+dependencies:
+- name: wordpress
+  repository: https://charts.helm.sh/stable
