@@ -39,4 +39,4 @@ appVersion: "1.0"
 dependencies:
 - name: wordpress
   version: 9.0.3
-  repository: registry
+  repository: @registry
