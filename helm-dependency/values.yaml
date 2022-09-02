@@ -7,7 +7,7 @@ wordpress:
       password: baz
 
 dev: false
-prod: true
+prod: false
 
 # repositories:
 #   name: registry
